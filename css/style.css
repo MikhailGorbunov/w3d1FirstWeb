@@ -1,0 +1,57 @@
+body{
+    margin:5px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+body > header{
+    padding: 16px; 
+    background-color: dodgerblue;
+    color: white
+}
+
+
+
+body > header > nav > ul {
+        list-style: none;
+}
+
+body > header > nav > ul > li > a{
+        color:white
+}
+
+
+
+
+body > main > article > main {
+
+    padding: 200px; 
+    margin: auto;
+
+
+}
+
+.headline-img{   
+    max-width: 15%;  
+    height: auto;  
+}
+
+.username-img{   
+    max-width: 15%;  
+    height: auto;  
+}
+
+
+#logo{
+    margin-top: 0;
+    font-family: "Fredoka One", sans-serif;
+}
+
+
+
+body > footer{
+    padding: 16px; 
+    background-color: dodgerblue;
+    color: white;
+    text-align: center; 
+}
